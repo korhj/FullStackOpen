@@ -1,1 +1,1 @@
-Exercises for full stack open course
+Exercises for full stack open course.
